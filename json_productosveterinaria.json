@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Transportador",
+        "description": "Para transoportar a tu mascota",
+        "cost": 150,
+        "currency": "USD",
+        "imgSrc": "JAP DW/Proyecto Veterinaria/img/transportadora.jpeg",
+        "soldCount": 14
+    },
+    {
+        "name": "Alimento para perro DogChow",
+        "description": "Debe ser por Dog Chow 8kg",
+        "cost": 40,
+        "currency": "USD",
+        "imgSrc": "JAP DW/Proyecto Veterinaria/img/dogchow.jpg",
+        "soldCount": 52
+    },
+    {
+        "name": "Correa para Perro",
+        "description": "Una forma segura de pasear a tu cachorro",
+        "cost": 12,
+        "currency": "USD",
+        "imgSrc": "JAP DW/Proyecto Veterinaria/img/correaparaperro.jpg",
+        "soldCount": 25
+    },
+    {
+        "name": "Comida para gato Cat Chow",
+        "description": "La mejor comida para tu gato 4kg",
+        "cost": 30,
+        "currency": "USD",
+        "imgSrc": "JAP DW/Proyecto Veterinaria/img/catchow.jpeg",
+        "soldCount": 17
+    },
+    {
+        "name": "Shampoo para Perros",
+        "description": "Pelo suave y brilloso",
+        "cost": 17,
+        "currency": "USD",
+        "imgSrc": "JAP DW/Proyecto Veterinaria/img/shampoperros.jpg",
+        "soldCount": 17
+    }
+]
